@@ -5,7 +5,7 @@ All fonts are collected from the Internet.
 ## Getting Started
 
 ```sh
-curl -L https://github.com/PingchuanMa/monospaced-fonts/raw/master/install.sh | bash
+curl -L https://github.com/PingchuanMa/monospaced-fonts/raw/main/install.sh | bash
 ```
 
 ## Usage
